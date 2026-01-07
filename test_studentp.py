@@ -1,4 +1,4 @@
-from student_grade import calculate_average, calculate_grade, get_student_result
+from studentp import calculate_average, calculate_grade, get_student_result
 
 
 def test_average():
